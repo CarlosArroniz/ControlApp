@@ -1,0 +1,17 @@
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\ControlAppiOS.exe
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\ControlAppiOS.pdb
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\optimized\
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ControlApp.iOS.csprojResolveAssemblyReference.cache
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ControlApp.iOS.c_.users.caarroniz.documents.visual_studio_2013.Projects.ControlApp.ControlApp.ControlApp.AppControl.xaml.g.cs
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ControlApp.iOS.c_.users.caarroniz.documents.visual_studio_2013.Projects.ControlApp.ControlApp.ControlApp.Login.xaml.g.cs
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ControlAppiOS.exe
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ControlAppiOS.pdb
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\obj\iPhone\Debug\ControlAppiOS.exe.mdb
+c:\users\caarroniz\documents\visual studio 2013\Projects\ControlApp\ControlApp\ControlApp.iOS\bin\iPhone\Debug\ControlAppiOS.exe.mdb
